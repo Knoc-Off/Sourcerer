@@ -70,7 +70,7 @@ fn main() {
         };
     }
 
-    // old config loaded or new config generated
+    // old config loaded or new config generated.
 
 
     // clap cli integration need to overhaul this garbage. not very readable but functional
