@@ -18,7 +18,7 @@
 
 - ## Planned Features
 	- Better list functionality as well as a search function
-	- Hntegrate sudo/ elevated permissions 
+	- Integrate sudo/ elevated permissions 
 	- Have a remote executable, as well as a configurable source folder
 	- Improved error handling
 
