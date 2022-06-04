@@ -16,11 +16,16 @@
 	- -r - Removes an alias. it 'soft deletes it' so your config replaces the symlink and was as if it was never added to sorcerer
 	- -l - A *very* rudimentary list. This needs to be vastly improved. A search feature is planned
 
+- ## Planned Features
+	- Better list functionality as well as a search function
+	- Hntegrate sudo/ elevated permissions 
+	- Have a remote executable, as well as a configurable source folder
+	- Improved error handling
 
 - ## Issues
-	- still a bit iffy with sudo, be wary
+	- Still a bit iffy with sudo, be wary
 
 
 - ## Compatibility
-	- linux only, windows is bad
+	- Linux only, windows is bad
 
