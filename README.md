@@ -26,5 +26,5 @@
 
 
 - ## Compatibility
-	- Linux only, windows is bad
+	- Linux only
 
