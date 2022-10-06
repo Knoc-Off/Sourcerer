@@ -3,7 +3,6 @@
 
 - ## Issue it solves
 	- I was frustrated with having to move all of my configurations every time I distro hopped or reinstalled. With this you only have to copy one folder and execute the program.
-		- Very worthwhile for me. Probably has limited use for others.
 
 
 - ## What it does
